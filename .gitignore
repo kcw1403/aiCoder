@@ -1,0 +1,35 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+_ReSharper*/
+*.ReSharper
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+*.dll
+*.exe
+*.pdb
+
+## NuGet
+*.nupkg
+packages/
+project.lock.json
+
+## Rider
+.idea/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Runtime state (Wrks)
+.wrks/
+node_modules
